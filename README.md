@@ -1,5 +1,5 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# Power BI: Integrating AI
+This is the repository for the LinkedIn Learning course `Power BI: Integrating AI`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![lil-thumbnail-url]
 
